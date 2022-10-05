@@ -4,5 +4,20 @@
   },
   "scripts": {
     "script": "Index.js"
-  }
+  },
+  "name": "uci_web",
+  "description": "First web project at UCI",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yougatagaa/UCI_Web.git"
+  },
+  "author": "Matthieu Vichet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yougatagaa/UCI_Web/issues"
+  },
+  "homepage": "https://github.com/yougatagaa/UCI_Web#readme"
 }
