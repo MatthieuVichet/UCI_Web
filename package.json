@@ -3,7 +3,8 @@
     "express": "^4.18.1"
   },
   "scripts": {
-    "script": "node Index.js"
+    "script": "nodemon Index.js",
+    "start":"nodemon app.js"
   },
   "name": "uci_web",
   "description": "First web project at UCI",
