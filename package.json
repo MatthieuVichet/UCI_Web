@@ -3,7 +3,7 @@
     "express": "^4.18.1"
   },
   "scripts": {
-    "script": "nodemon Index.js",
+    "scriptrs": "nodemon Index.js",
     "start":"nodemon app.js"
   },
   "name": "uci_web",
